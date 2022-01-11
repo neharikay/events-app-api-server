@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.1';
-    team = 'Neharika test';
+    team = 'Neharika test-lab2&3';
 }
 module.exports = AppConfig;
